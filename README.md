@@ -54,20 +54,38 @@ The goal is to improve efficiency, transparency, and user experience in academic
 
 ## 🖼️ Screenshots
 
-### 🔐 Login
-![Login](screenshots/login.png)
+### 🔐 Login Page
+![Login](screenshots/laravel/واجهه تسجيل الدخول للموقع.png)
 
-### 🏠 Dashboard
-![Dashboard](screenshots/dashboard.png)
+### 🏠 Landing Page
+![Landing](screenshots/laravel/public landing page.png)
 
-### 👨‍🎓 Student Panel
-![Student](screenshots/student.png)
+### 📋 Available Services
+![Services](screenshots/laravel/الخدمات المتوفره والمستعرضه في صفحه الهبوط.png)
 
-### 👨‍🏫 Teacher Panel
-![Teacher](screenshots/teacher.png)
+### 👨‍🎓 Student Registration
+![Student Register](screenshots/laravel/واجهه انشاء حساب طالب.png)
 
-### 🛠️ Admin Panel
-![Admin](screenshots/admin.png)
+### 👨‍🏫 Teacher Dashboard
+![Teacher Panel](screenshots/laravel/الواجهه الترحيبيه للاستاذ.png)
+
+### 🛠️ Admin Dashboard
+![Admin Panel](screenshots/laravel/الواجهه الرئيسيه للمسؤولين.png)
+
+### 🏫 University Setup
+![University Setup](screenshots/laravel/تهيئه بيانات الجامعه من كليات ومباني واسجلات الطلاب وغيرها.png)
+
+### 📅 Academic Schedule Setup
+![Schedule](screenshots/laravel/واجهه اضافه بيانات الجدول الدراسي لقسم ما في ترم محدد.png)
+
+### 📚 Library Management
+![Library](screenshots/laravel/واجهه اداره موارد المكتبه.png)
+
+### 💬 Chat System
+![Chat](screenshots/laravel/واجهه الدردشات ويب.png)
+
+### 🧪 Exam Results
+![Exam Result](screenshots/laravel/نتيجة الاختبار.png)
 
 ---
 
