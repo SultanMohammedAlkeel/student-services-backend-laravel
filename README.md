@@ -54,38 +54,40 @@ The goal is to improve efficiency, transparency, and user experience in academic
 
 ## 🖼️ Screenshots
 
+> If images do not render, make sure the `screenshots` folder exists at the repo root and filenames match exactly. Alternatively consider renaming files to ASCII (no spaces) to avoid URL issues.
+
 ### 🔐 Login Page
-![Login](screenshots/واجهه تسجيل الدخول للموقع.png)
+![Login](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/واجهه%20تسجيل%20الدخول%20للموقع.png)
 
 ### 🏠 Landing Page
-![Landing](screenshots/public landing page.png)
+![Landing](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/public%20landing%20page.png)
 
 ### 📋 Available Services
-![Services](screenshots/الخدمات المتوفره والمستعرضه في صفحه الهبوط.png)
+![Services](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/الخدمات%20المتوفره%20والمستعرضه%20في%20صفحه%20الهبوط.png)
 
 ### 👨‍🎓 Student Registration
-![Student Register](screenshots/واجهه انشاء حساب طالب.png)
+![Student Register](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/واجهه%20انشاء%20حساب%20طالب.png)
 
 ### 👨‍🏫 Teacher Dashboard
-![Teacher Panel](screenshots/الواجهه الترحيبيه للاستاذ.png)
+![Teacher Panel](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/الواجهه%20الترحيبيه%20للاستاذ.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Panel](screenshots/الواجهه الرئيسيه للمسؤولين.png)
+![Admin Panel](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/الواجهه%20الرئيسيه%20للمسؤولين.png)
 
 ### 🏫 University Setup
-![University Setup](screenshots/تهيئه بيانات الجامعه من كليات ومباني واسجلات الطلاب وغيرها.png)
+![University Setup](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/تهيئه%20بيانات%20الجامعه%20من%20كليات%20ومباني%20واسجلات%20الطلاب%20وغيرها.png)
 
 ### 📅 Academic Schedule Setup
-![Schedule](screenshots/واجهه اضافه بيانات الجدول الدراسي لقسم ما في ترم محدد.png)
+![Schedule](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/واجهه%20اضافه%20بيانات%20الجدول%20الدرسي%20لقسم%20ما%20في%20ترم%20محدد.png)
 
 ### 📚 Library Management
-![Library](screenshots/واجهه اداره موارد المكتبه.png)
+![Library](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/واجهه%20اداره%20موارد%20المكتبه.png)
 
 ### 💬 Chat System
-![Chat](screenshots/واجهه الدردشات ويب.png)
+![Chat](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/واجهه%20الدردشات%20ويب.png)
 
 ### 🧪 Exam Results
-![Exam Result](screenshots/نتيجة الاختبار.png)
+![Exam Result](https://raw.githubusercontent.com/SultanMohammedAlkeel/student-services-backend-laravel/5a16089ca71016e0bd792978ecbda856b019a5ae/screenshots/نتيجة%20الاختبار.png)
 
 ---
 
@@ -99,3 +101,4 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
+```
