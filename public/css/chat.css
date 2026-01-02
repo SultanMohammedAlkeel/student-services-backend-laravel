@@ -1,0 +1,73 @@
+/* تنسيق عام */
+.chat-area {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* ارتفاع كامل للشاشة */
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.header-chat {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    background-color: #f9f9f9;
+    flex-shrink: 0; /* يمنع التقلص */
+}
+
+.body-chat {
+    flex: 1; /* يأخذ المساحة المتبقية */
+    overflow-y: auto; /* تمكين التمرير إذا كان المحتوى طويلًا */
+    padding: 10px;
+}
+
+.footer-chat {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-top: 1px solid #ddd;
+    flex-shrink: 0; /* يمنع التقلص */
+}
+
+/* تنسيق حقل الإدخال */
+.chat-input {
+    resize: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+}
+
+/* تنسيق الأزرار */
+.btn-facebook {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.btn-facebook:hover {
+    background-color: #0056b3;
+}
+
+/* الرسائل */
+.messages {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.message {
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    max-width: 70%;
+}
+
+.message:nth-child(odd) {
+    align-self: flex-end;
+    background-color: #007bff;
+    color: #fff;
+}
+

@@ -1,0 +1,17 @@
+@forelse($data as $j => $item)
+                                    <tr class="table-row" data-name="{{ $item['name'] }}" id="row-{{ $j }}">
+                                        <th>{{ $j }}</th>
+                                        <td>{{ $item['name'] }}</td>
+                                        <td class="text-left">
+                                            @if ($item['status'] == 1)
+                                                <span class="badge badge-success">حاضر</span>
+                                            @else
+                                                <span class="badge badge-danger">غائب</span>
+                                            @endif
+                                        </td>
+                                    </tr>
+                                @empty
+                                    <tr>
+                                        <td colspan="3" class="text-center">لا يوجد سجلات حضور</td>
+                                    </tr>
+                                @endforelse
