@@ -55,37 +55,37 @@ The goal is to improve efficiency, transparency, and user experience in academic
 ## 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login](screenshots/laravel/واجهه تسجيل الدخول للموقع.png)
+![Login](screenshots/واجهه تسجيل الدخول للموقع.png)
 
 ### 🏠 Landing Page
-![Landing](screenshots/laravel/public landing page.png)
+![Landing](screenshots/public landing page.png)
 
 ### 📋 Available Services
-![Services](screenshots/laravel/الخدمات المتوفره والمستعرضه في صفحه الهبوط.png)
+![Services](screenshots/الخدمات المتوفره والمستعرضه في صفحه الهبوط.png)
 
 ### 👨‍🎓 Student Registration
-![Student Register](screenshots/laravel/واجهه انشاء حساب طالب.png)
+![Student Register](screenshots/واجهه انشاء حساب طالب.png)
 
 ### 👨‍🏫 Teacher Dashboard
-![Teacher Panel](screenshots/laravel/الواجهه الترحيبيه للاستاذ.png)
+![Teacher Panel](screenshots/الواجهه الترحيبيه للاستاذ.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Panel](screenshots/laravel/الواجهه الرئيسيه للمسؤولين.png)
+![Admin Panel](screenshots/الواجهه الرئيسيه للمسؤولين.png)
 
 ### 🏫 University Setup
-![University Setup](screenshots/laravel/تهيئه بيانات الجامعه من كليات ومباني واسجلات الطلاب وغيرها.png)
+![University Setup](screenshots/تهيئه بيانات الجامعه من كليات ومباني واسجلات الطلاب وغيرها.png)
 
 ### 📅 Academic Schedule Setup
-![Schedule](screenshots/laravel/واجهه اضافه بيانات الجدول الدراسي لقسم ما في ترم محدد.png)
+![Schedule](screenshots/واجهه اضافه بيانات الجدول الدراسي لقسم ما في ترم محدد.png)
 
 ### 📚 Library Management
-![Library](screenshots/laravel/واجهه اداره موارد المكتبه.png)
+![Library](screenshots/واجهه اداره موارد المكتبه.png)
 
 ### 💬 Chat System
-![Chat](screenshots/laravel/واجهه الدردشات ويب.png)
+![Chat](screenshots/واجهه الدردشات ويب.png)
 
 ### 🧪 Exam Results
-![Exam Result](screenshots/laravel/نتيجة الاختبار.png)
+![Exam Result](screenshots/نتيجة الاختبار.png)
 
 ---
 
